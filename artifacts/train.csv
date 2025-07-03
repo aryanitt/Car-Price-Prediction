@@ -1,0 +1,165 @@
+CarName,drivewheel,enginelocation,carlength,carwidth,curbweight,enginesize,fuelsystem,horsepower,citympg,highwaympg,price
+mazda rx-7 gs,rwd,front,175.0,66.1,2700,134,idi,72,31,39,18344.0
+peugeot 504,rwd,front,186.7,68.4,3075,120,mpfi,95,19,24,15580.0
+toyota corona hardtop,fwd,front,169.7,63.6,2280,92,2bbl,62,31,37,6918.0
+nissan latio,fwd,front,165.3,63.8,1971,97,2bbl,69,31,37,7499.0
+honda civic 1300,fwd,front,167.5,65.2,2289,110,1bbl,86,27,33,9095.0
+dodge monaco (sw),fwd,front,157.3,63.8,1967,90,2bbl,68,31,38,6229.0
+subaru dl,fwd,front,157.9,63.6,2120,108,2bbl,73,26,31,7053.0
+peugeot 604sl,rwd,front,186.7,68.4,3252,152,idi,95,28,33,16900.0
+dodge coronet custom (sw),fwd,front,173.2,66.3,2811,156,mfi,145,19,24,12964.0
+chevrolet monte carlo,fwd,front,155.9,63.6,1874,90,2bbl,70,38,43,6295.0
+toyota corolla liftback,rwd,front,183.5,67.7,2976,171,mpfi,161,20,24,16558.0
+nissan gt-r,fwd,front,165.3,63.8,2017,103,idi,55,45,50,7099.0
+toyota corolla,fwd,front,175.6,66.5,2326,122,mpfi,92,29,34,8948.0
+nissan titan,fwd,front,170.2,63.8,2024,97,2bbl,69,31,37,7349.0
+audi fox,fwd,front,177.3,66.3,2507,136,mpfi,110,19,25,15250.0
+toyota corona liftback,rwd,front,176.2,65.6,2540,146,mpfi,116,24,30,8449.0
+mazda glc,rwd,front,169.0,65.7,2380,70,4bbl,101,17,23,11845.0
+porsche boxter,rwd,rear,168.9,65.0,2800,194,mpfi,207,17,25,37028.0
+mitsubishi mirage,fwd,front,157.3,64.4,1918,92,2bbl,68,37,41,5389.0
+subaru r1,4wd,front,172.0,65.4,2385,108,2bbl,82,24,25,9233.0
+nissan teana,rwd,front,170.7,67.9,3071,181,mpfi,160,19,25,17199.0
+toyota mark ii,fwd,front,175.6,66.5,2458,122,mpfi,92,27,32,11248.0
+mercury cougar,rwd,front,178.4,68.0,2910,140,mpfi,175,19,24,16503.0
+toyota celica gt,fwd,front,175.6,66.5,2480,110,idi,73,30,33,10698.0
+honda civic cvcc,fwd,front,144.6,63.9,1819,92,1bbl,76,31,38,6855.0
+bmw x1,rwd,front,176.8,64.8,2710,164,mpfi,121,21,28,20970.0
+honda accord lx,fwd,front,163.4,64.0,2010,92,1bbl,76,30,34,7295.0
+porsche macan,rwd,front,168.9,68.3,2778,151,mpfi,143,19,27,22018.0
+honda civic (auto),fwd,front,169.1,66.0,2293,110,2bbl,100,25,31,10345.0
+toyota mark ii,fwd,front,166.3,64.4,2081,98,2bbl,70,30,37,6938.0
+saab 99gle,fwd,front,186.6,66.5,2808,121,mpfi,160,19,26,18150.0
+subaru dl,4wd,front,157.3,63.8,2240,108,2bbl,73,26,31,7603.0
+maxda glc deluxe,fwd,front,159.1,64.2,1900,91,2bbl,68,31,38,6095.0
+peugeot 504,rwd,front,198.9,68.4,3285,120,mpfi,95,19,24,16695.0
+toyota corolla tercel,rwd,front,168.7,64.0,2300,98,mpfi,112,26,29,9538.0
+honda civic,fwd,front,175.4,65.2,2465,110,mpfi,101,24,28,12945.0
+plymouth duster,rwd,front,173.2,66.3,2818,156,spdi,145,19,24,12764.0
+mitsubishi outlander,fwd,front,157.3,64.4,2004,92,2bbl,68,31,38,6669.0
+plymouth cricket,fwd,front,157.3,63.8,2128,98,spdi,102,24,30,7957.0
+dodge colt (sw),fwd,front,157.3,63.8,1989,90,2bbl,68,31,38,7609.0
+saab 99e,fwd,front,186.6,66.5,2847,121,mpfi,160,19,26,18620.0
+volvo 145e (sw),rwd,front,188.8,68.9,2952,141,mpfi,114,23,28,16845.0
+peugeot 604sl,rwd,front,186.7,68.3,3130,134,mpfi,142,18,24,18150.0
+alfa-romero Quadrifoglio,rwd,front,171.2,65.5,2823,152,mpfi,154,19,26,16500.0
+mitsubishi lancer,fwd,front,157.3,64.4,1944,92,2bbl,68,31,38,6189.0
+isuzu D-Max ,rwd,front,172.6,65.2,2734,119,spfi,90,24,29,11048.0
+plymouth fury gran sedan,fwd,front,167.3,63.8,2191,98,2bbl,68,31,38,7609.0
+porsche cayenne,rwd,rear,168.9,65.0,2756,194,mpfi,207,17,25,34028.0
+mitsubishi montero,fwd,front,172.4,65.4,2365,122,2bbl,88,25,32,6989.0
+subaru,fwd,front,156.9,63.4,2050,97,2bbl,69,31,36,5118.0
+honda civic 1500 gl,fwd,front,157.1,63.9,2024,92,1bbl,76,30,34,7295.0
+peugeot 505s turbo diesel,rwd,front,198.9,68.4,3485,152,idi,95,25,25,17075.0
+mazda glc custom,fwd,front,177.8,66.5,2385,122,2bbl,84,26,32,10595.0
+dodge challenger se,fwd,front,157.3,63.8,1876,90,2bbl,68,31,38,6377.0
+saab 99gle,fwd,front,186.6,66.5,2758,121,mpfi,110,21,28,15510.0
+volkswagen rabbit custom,fwd,front,180.2,66.9,2579,97,idi,68,33,38,13845.0
+honda accord cvcc,fwd,front,150.0,64.0,1940,92,1bbl,76,30,34,6529.0
+bmw 320i,rwd,front,176.8,64.8,2395,108,mpfi,101,23,29,16925.0
+volvo diesel,rwd,front,188.8,67.2,3157,130,mpfi,162,17,22,18950.0
+toyota corolla liftback,rwd,front,168.7,64.0,2169,98,2bbl,70,29,34,8058.0
+audi 100ls,fwd,front,192.7,71.4,2844,136,mpfi,110,19,25,17710.0
+dodge coronet custom,fwd,front,157.3,63.8,2191,98,mpfi,102,24,30,8558.0
+porcshce panamera,rwd,rear,168.9,65.0,2756,194,mpfi,207,17,25,32528.0
+volvo 244dl,rwd,front,188.8,67.2,2935,141,mpfi,114,24,28,15985.0
+subaru,fwd,front,172.0,65.4,2145,108,2bbl,82,32,37,7126.0
+audi 100ls,4wd,front,176.6,66.4,2824,136,mpfi,115,18,22,17450.0
+honda civic,fwd,front,150.0,64.0,1837,79,1bbl,60,38,42,5399.0
+peugeot 504 (sw),rwd,front,198.9,68.4,3230,120,mpfi,97,19,24,12440.0
+volkswagen super beetle,fwd,front,171.7,65.5,2319,97,idi,68,37,42,9495.0
+peugeot 504,rwd,front,186.7,68.4,3075,120,mpfi,97,19,24,16630.0
+subaru dl,4wd,front,173.6,65.4,2420,108,2bbl,82,23,29,8013.0
+bmw 320i,rwd,front,176.8,64.8,2395,108,mpfi,101,23,29,16430.0
+mazda rx-4,fwd,front,177.8,66.5,2410,122,2bbl,84,26,32,10245.0
+plymouth fury iii,fwd,front,157.3,63.8,1918,90,2bbl,68,37,41,5572.0
+toyota corona mark ii,fwd,front,158.7,63.6,1985,92,2bbl,62,35,39,5348.0
+toyota tercel,rwd,front,176.2,65.6,2679,146,mpfi,116,24,30,11199.0
+alfa-romero giulia,rwd,front,168.8,64.1,2548,130,mpfi,111,21,27,13495.0
+volkswagen model 111,fwd,front,171.7,65.5,2264,97,idi,52,37,46,7995.0
+volkswagen 1131 deluxe sedan,fwd,front,171.7,65.5,2209,109,mpfi,85,27,34,7975.0
+buick skyhawk,rwd,front,202.6,71.7,3770,183,idi,123,22,25,31600.0
+volvo 246,rwd,front,188.8,68.9,3217,145,idi,106,26,27,22470.0
+mazda 626,fwd,front,177.8,66.5,2425,122,2bbl,84,26,32,11245.0
+isuzu D-Max ,fwd,front,155.9,63.6,1874,90,2bbl,70,38,43,8916.5
+toyota celica gt liftback,rwd,front,168.7,64.0,2265,98,mpfi,112,26,29,9298.0
+dodge dart custom,fwd,front,174.6,64.6,2535,122,2bbl,88,24,30,8921.0
+honda accord,fwd,front,175.4,62.5,2372,110,1bbl,86,27,33,10295.0
+peugeot 304,rwd,front,186.7,68.4,3197,152,idi,95,28,33,13200.0
+plymouth valiant,fwd,front,174.6,64.6,2535,122,2bbl,88,24,30,8921.0
+dodge d200,fwd,front,157.3,63.8,2128,98,mpfi,102,24,30,7957.0
+toyota carina,4wd,front,169.7,63.6,3110,92,2bbl,62,27,32,8778.0
+vw dasher,fwd,front,159.3,64.2,2254,109,mpfi,90,24,29,11595.0
+mitsubishi g4,fwd,front,173.0,65.4,2328,122,2bbl,88,25,32,8499.0
+honda prelude,fwd,front,175.4,65.2,2304,110,1bbl,86,27,33,8845.0
+toyota cressida,rwd,front,176.2,65.6,2975,146,mpfi,116,24,30,17669.0
+jaguar xj,rwd,front,199.6,69.6,4066,258,mpfi,176,15,19,32250.0
+nissan leaf,fwd,front,165.3,63.8,1951,97,2bbl,69,31,37,7299.0
+toyota corona,fwd,front,166.3,64.4,2275,110,idi,56,34,36,7898.0
+isuzu MU-X,rwd,front,170.7,61.8,2337,111,2bbl,78,24,29,6785.0
+subaru brz,fwd,front,172.0,65.4,2190,108,2bbl,82,28,33,7775.0
+audi 100 ls,fwd,front,176.6,66.2,2337,109,mpfi,102,24,30,13950.0
+nissan kicks,rwd,front,170.7,67.9,3139,181,mpfi,200,17,23,19699.0
+mazda rx-4,fwd,front,166.8,64.2,1945,91,2bbl,68,31,38,6695.0
+saab 99le,fwd,front,186.6,66.5,2695,121,mpfi,110,21,28,12170.0
+volkswagen type 3,fwd,front,171.7,65.5,2212,109,mpfi,85,27,34,8195.0
+toyota corolla,fwd,front,166.3,64.4,2122,98,2bbl,70,28,34,8358.0
+vw rabbit,fwd,front,165.7,64.0,2221,109,mpfi,90,24,29,9980.0
+jaguar xk,rwd,front,191.7,70.6,3950,326,mpfi,262,13,17,36000.0
+mitsubishi mirage g4,fwd,front,173.0,65.4,2370,110,spdi,116,23,30,9959.0
+honda civic cvcc,fwd,front,150.0,64.0,1956,92,1bbl,76,30,34,7129.0
+audi 5000,fwd,front,192.7,71.4,2954,136,mpfi,110,19,25,18920.0
+peugeot 504,rwd,front,198.9,68.4,3430,152,idi,95,25,25,13860.0
+nissan rogue,fwd,front,165.3,63.8,1918,97,2bbl,69,31,37,6649.0
+mitsubishi g4,fwd,front,173.2,66.3,2921,156,spdi,145,19,24,14869.0
+toyouta tercel,rwd,front,187.8,66.5,3151,161,mpfi,156,19,24,15750.0
+volkswagen 411 (sw),fwd,front,171.7,65.5,2275,109,mpfi,85,27,34,8495.0
+Nissan versa,fwd,front,165.3,63.8,1889,97,2bbl,69,31,37,5499.0
+audi 4000,fwd,front,192.7,71.4,3086,131,mpfi,140,17,20,23875.0
+bmw x3,rwd,front,176.8,64.8,2765,164,mpfi,121,21,28,21105.0
+mazda 626,fwd,front,177.8,66.5,2385,122,2bbl,84,26,32,8845.0
+toyota corolla,fwd,front,175.6,66.5,2414,122,mpfi,92,27,32,10898.0
+renault 5 gtl,fwd,front,176.8,66.6,2460,132,mpfi,90,23,31,9895.0
+bmw x3,rwd,front,197.0,70.9,3505,209,mpfi,182,15,20,36880.0
+buick skylark,rwd,front,180.3,70.5,3685,234,mpfi,155,16,18,35056.0
+toyota starlet,rwd,front,187.8,66.5,3131,171,mpfi,156,20,24,15690.0
+saab 99le,fwd,front,186.6,66.5,2707,121,mpfi,110,21,28,15040.0
+toyota corolla,rwd,front,176.2,65.6,2714,146,mpfi,116,24,30,11549.0
+volvo 264gl,rwd,front,188.8,67.2,3045,130,mpfi,162,17,22,18420.0
+mazda glc deluxe,fwd,front,177.8,66.5,2443,122,idi,64,36,42,10795.0
+mazda glc deluxe,fwd,front,166.8,64.2,1950,91,2bbl,68,31,38,7395.0
+peugeot 504,rwd,front,186.7,68.4,3020,120,mpfi,97,19,24,11900.0
+maxda rx3,fwd,front,159.1,64.2,1890,91,2bbl,68,30,31,5195.0
+volvo 144ea,rwd,front,188.8,68.8,3049,141,mpfi,160,19,25,19045.0
+toyota starlet,rwd,front,176.2,65.6,2551,146,mpfi,116,24,30,9989.0
+mazda glc 4,rwd,front,169.0,65.7,2500,80,mpfi,135,16,23,15645.0
+jaguar xf,rwd,front,199.6,69.6,4066,258,mpfi,176,15,19,35550.0
+mitsubishi mirage g4,fwd,front,172.4,65.4,2403,110,spdi,116,23,30,9279.0
+dodge rampage,fwd,front,157.3,63.8,1876,90,2bbl,68,37,41,5572.0
+mazda rx-7 gs,rwd,front,169.0,65.7,2385,70,4bbl,101,17,23,13645.0
+toyota corona,fwd,front,166.3,64.4,2094,98,2bbl,70,38,47,7738.0
+volvo 245,rwd,front,188.8,67.2,3042,141,mpfi,114,24,28,16515.0
+porsche cayenne,rwd,front,175.7,72.3,3366,203,mpfi,288,17,28,31400.5
+honda accord,fwd,front,167.5,65.2,2236,110,1bbl,86,27,33,7895.0
+toyota corolla 1200,fwd,front,166.3,64.4,2109,98,2bbl,70,30,37,7198.0
+volkswagen dasher,fwd,front,183.1,66.9,2563,109,mpfi,88,25,31,12290.0
+alfa-romero stelvio,rwd,front,168.8,64.1,2548,130,mpfi,111,21,27,16500.0
+mazda rx2 coupe,fwd,front,159.1,64.2,1905,91,2bbl,68,31,38,6795.0
+subaru dl,4wd,front,173.6,65.4,2650,108,mpfi,111,23,23,11694.0
+renault 12tl,fwd,front,181.5,66.5,2579,132,mpfi,90,23,31,9295.0
+toyota corona,fwd,front,158.7,63.6,2040,92,2bbl,62,31,38,6338.0
+nissan otti,fwd,front,184.6,66.5,3060,181,mpfi,152,19,25,13499.0
+nissan rogue,fwd,front,173.4,65.2,2324,120,2bbl,97,27,34,8949.0
+peugeot 504,rwd,front,186.7,68.4,3252,152,idi,95,28,33,17950.0
+mitsubishi outlander,fwd,front,172.4,65.4,2403,110,spdi,116,23,30,9279.0
+buick regal sport coupe (turbo),rwd,front,199.2,72.0,3715,304,mpfi,184,14,16,45400.0
+plymouth satellite custom (sw),fwd,front,167.3,63.8,1989,90,2bbl,68,31,38,6692.0
+volvo 264gl,rwd,front,188.8,68.9,3062,141,mpfi,114,19,25,22625.0
+chevrolet vega 2300,fwd,front,158.8,63.6,1909,90,2bbl,70,38,43,6575.0
+volkswagen dasher,fwd,front,171.7,65.5,2300,109,mpfi,100,26,32,9995.0
+buick opel isuzu deluxe,rwd,front,202.6,71.7,3740,234,mpfi,155,16,18,34184.0
+nissan clipper,rwd,front,178.5,67.9,3139,181,mpfi,160,19,25,18399.0
+bmw z4,rwd,front,189.0,66.9,3055,164,mpfi,121,20,25,24565.0
+nissan latio,fwd,front,165.3,63.8,1938,97,2bbl,69,31,37,6849.0
+toyota corona,rwd,front,183.5,67.7,3016,171,mpfi,161,19,24,15998.0
+nissan fuga,fwd,front,184.6,66.5,3296,181,mpfi,152,17,22,14399.0

@@ -1,0 +1,42 @@
+CarName,drivewheel,enginelocation,carlength,carwidth,curbweight,enginesize,fuelsystem,horsepower,citympg,highwaympg,price
+bmw x4,rwd,front,189.0,66.9,3230,209,mpfi,182,16,22,30760.0
+audi 5000s (diesel),4wd,front,178.2,67.9,3053,131,mpfi,160,16,22,17859.167
+nissan nv200,fwd,front,173.4,65.2,2302,120,2bbl,97,27,34,9549.0
+saab 99e,fwd,front,186.6,66.5,2658,121,mpfi,110,21,28,11850.0
+buick century luxus (sw),rwd,front,190.9,70.3,3750,183,idi,123,22,25,28248.0
+nissan juke,fwd,front,165.6,63.8,2028,97,2bbl,69,31,37,7799.0
+toyota corolla,fwd,front,166.3,64.4,2275,110,idi,56,38,47,7788.0
+toyota mark ii,fwd,front,166.3,64.4,2140,98,2bbl,70,28,34,9258.0
+subaru tribeca,fwd,front,173.5,65.4,2455,108,mpfi,94,25,31,10198.0
+vokswagen rabbit,fwd,front,171.7,65.5,2261,97,idi,52,37,46,7775.0
+volkswagen rabbit,fwd,front,180.2,66.9,2661,136,mpfi,110,19,24,13295.0
+toyota corona,rwd,front,168.7,64.0,2204,98,2bbl,70,29,34,8238.0
+mazda glc,rwd,front,175.0,66.1,2670,140,mpfi,120,19,27,18280.0
+toyota corona,fwd,front,175.6,66.5,2414,122,mpfi,92,27,32,9988.0
+buick century special,rwd,front,208.1,71.7,3900,308,mpfi,184,14,16,40960.0
+toyota corolla 1200,fwd,front,158.7,63.6,2015,92,2bbl,62,31,38,6488.0
+chevrolet impala,fwd,front,141.1,60.3,1488,61,2bbl,48,47,53,5151.0
+mitsubishi outlander,fwd,front,173.2,66.3,2833,156,spdi,145,19,24,12629.0
+mitsubishi pajero,fwd,front,172.4,65.4,2405,122,2bbl,88,25,32,8189.0
+subaru baja,fwd,front,172.0,65.4,2340,108,mpfi,94,26,32,9960.0
+mazda glc custom l,fwd,front,177.8,66.5,2410,122,2bbl,84,26,32,8495.0
+nissan dayz,fwd,front,181.7,66.5,3095,181,mpfi,152,17,22,13499.0
+nissan clipper,fwd,front,162.4,63.8,2008,97,2bbl,69,31,37,8249.0
+honda civic,fwd,front,144.6,63.9,1713,92,1bbl,58,49,54,6479.0
+dodge colt hardtop,fwd,front,157.3,63.8,1989,90,2bbl,68,31,38,6692.0
+bmw x5,rwd,front,193.8,67.9,3380,209,mpfi,182,16,22,41315.0
+toyota corolla,rwd,front,176.2,65.6,2536,146,mpfi,116,24,30,9639.0
+volvo 144ea,rwd,front,188.8,67.2,3034,141,mpfi,114,23,28,13415.0
+nissan note,fwd,front,170.2,63.8,2037,97,2bbl,69,31,37,7999.0
+volvo 145e (sw),rwd,front,188.8,67.2,2912,141,mpfi,114,23,28,12940.0
+buick electra 225 custom,rwd,front,190.9,70.3,3515,183,idi,123,22,25,25552.0
+plymouth fury iii,fwd,front,157.3,63.8,1967,90,2bbl,68,31,38,6229.0
+toyota corolla 1600 (sw),4wd,front,169.7,63.6,2290,92,2bbl,62,27,32,7898.0
+volvo 244dl,rwd,front,188.8,68.9,3012,173,mpfi,134,18,23,21485.0
+mitsubishi g4,fwd,front,157.3,63.8,2145,98,spdi,102,24,30,7689.0
+buick century,rwd,front,187.5,70.3,3495,183,idi,123,22,25,28176.0
+subaru r2,4wd,front,172.0,65.4,2510,108,mpfi,111,24,29,11259.0
+mazda 626,rwd,front,169.0,65.7,2380,70,4bbl,101,17,23,10945.0
+isuzu D-Max V-Cross,fwd,front,155.9,63.6,1909,90,2bbl,70,38,43,8916.5
+mitsubishi mirage g4,fwd,front,173.2,66.3,2926,156,spdi,145,19,24,14489.0
+subaru trezia,fwd,front,173.5,65.4,2290,108,2bbl,82,28,32,7463.0

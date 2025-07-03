@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Car Price Predictor</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .form-card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(12px);
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+            max-width: 850px;
+            width: 100%;
+        }
+
+        .form-title {
+            font-size: 32px;
+            font-weight: bold;
+            margin-bottom: 30px;
+            color: #1e3c72;
+            text-align: center;
+        }
+
+        label {
+            font-weight: 500;
+        }
+
+        .btn-primary {
+            background-color: #1e3c72;
+            border-color: #1e3c72;
+            transition: all 0.3s ease;
+        }
+
+        .btn-primary:hover {
+            background-color: #16335f;
+            border-color: #16335f;
+        }
+
+        .result-box {
+            background-color: #d1e7dd;
+            border: 1px solid #badbcc;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            text-align: center;
+            color: #0f5132;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-card">
+        <div class="form-title">Car Price Prediction</div>
+
+        <form method="POST" action="/predictdata">
+            <div class="row g-3">
+
+                <!-- Numerical Inputs -->
+                <div class="col-md-6">
+                    <label>Car Length</label>
+                    <input type="number" step="10" name="carlength" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>Car Width</label>
+                    <input type="number" step="10" name="carwidth" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>Curb Weight</label>
+                    <input type="number" step="10" name="curbweight" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>Engine Size</label>
+                    <input type="number" step="10" name="enginesize" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>Horsepower</label>
+                    <input type="number" step="10" name="horsepower" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>City MPG</label>
+                    <input type="number" step="10" name="citympg" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>Highway MPG</label>
+                    <input type="number" step="10" name="highwaympg" class="form-control" required>
+                </div>
+
+                <!-- Categorical Inputs -->
+                <div class="col-md-6">
+                    <label>Car Name</label>
+                    <select name="CarName" class="form-select" required>
+                        <option value="">Choose...</option>
+                        <option value="toyota">Toyota</option>
+                        <option value="bmw">BMW</option>
+                        <option value="audi">Audi</option>
+                        <option value="honda">Honda</option>
+                        <option value="chevrolet">Chevrolet</option>
+                        <option value="volkswagen">Volkswagen</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label>Drive Wheel</label>
+                    <select name="drivewheel" class="form-select" required>
+                        <option value="">Choose...</option>
+                        <option value="fwd">Front Wheel Drive</option>
+                        <option value="rwd">Rear Wheel Drive</option>
+                        <option value="4wd">Four Wheel Drive</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label>Engine Location</label>
+                    <select name="enginelocation" class="form-select" required>
+                        <option value="">Choose...</option>
+                        <option value="front">Front</option>
+                        <option value="rear">Rear</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label>Fuel System</label>
+                    <select name="fuelsystem" class="form-select" required>
+                        <option value="">Choose...</option>
+                        <option value="mpfi">MPFI</option>
+                        <option value="2bbl">2BBL</option>
+                        <option value="1bbl">1BBL</option>
+                        <option value="spdi">SPDI</option>
+                        <option value="4bbl">4BBL</option>
+                        <option value="idi">IDI</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="d-grid mt-4">
+                <button type="submit" class="btn btn-primary btn-lg">Predict Price</button>
+            </div>
+        </form>
+
+        {% if results %}
+        <div class="result-box">
+            <strong>Predicted Car Price:</strong> ₹ {{ results }}
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
