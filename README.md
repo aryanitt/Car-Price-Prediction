@@ -31,3 +31,4 @@ Trained using regression models (e.g.,LinearRegression, RandomForest).
 Integrated with Flask to serve model predictions via web UI.
 
 Accepts user input (car specs) and predicts price instantly.
+"# BrainScan-Lite-MBTI-Personality-Predictor" 
