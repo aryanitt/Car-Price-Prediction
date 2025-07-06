@@ -20,6 +20,8 @@ Car_Price_Prediction/
 
 
 Features
+
+
 Automated data ingestion, preprocessing, and 
 
 Uses OneHotEncoder, StandardScaler, and PCA for pipeline processing.
